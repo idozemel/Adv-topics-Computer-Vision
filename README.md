@@ -8,7 +8,7 @@ We were asked to divide our full dataset into train and test,
 In the creation of CNN network for our project we have tested 4 diffrent scratch networks. <br>
 We have changed hyper paraments, data augmentation, added an extra layer, for acomplishing our goal, to get higher accuracy rates.
 
-#Second notebook - Transfer Learning <br>
+# Second notebook - Transfer Learning <br>
 
 we have tested 4 diffrent networks.
 In each test we ran the same 2extra layers, fully connected layer of 1024 neurons and our exit layer of fully connected 120 neurons using softmax.
