@@ -18,3 +18,5 @@ The best model performences is InceptionResNetV2 that got 87.5% accuracy on our 
 MobileNet is the worst tested model in our project with only 71.58%! <br>
 
 Transfer learning is definitely going to be one of the key drivers for machine learning and deep learning success in mainstream adoption in the industry. I definitely hope to see more pre-trained models and innovative case studies which leverage this concept and methodology. 
+
+<img src="https://github.com/idozemel/Adv-topics-Computer-Vision/blob/main/class_pred.jpg" alt="class_pred"/>
